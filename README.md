@@ -1,4 +1,8 @@
+![Ankit Mhatre](./banner.jpg)
+
+
 ### Hi there 👋
+Ankit Mhatre!
 
 <!--
 **ankitmhatre/ankitmhatre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

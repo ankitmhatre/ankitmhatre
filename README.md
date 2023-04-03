@@ -1,4 +1,5 @@
 
+![](https://komarev.com/ghpvc/?ankitmhatre&color=green)
 
 <p align="center">
 <!--  <img src="/me_tsq.png" style="
@@ -19,10 +20,10 @@ text-align: center;">
   Hello, World <br>
     I write about projects and experiences to reminisce.<br>
     Pace University, NYC, US(2022-2024 CS) <br>
-    Mumbai University, India(2014-2018 CSE)<br>
-    TestBuzz, 1337Lab and Tesseract Imaging<br>
-    I reside in New York and am currently pursuing my MS in Computer Science.
-   
+    Mumbai University, India(2014-2018 CSE)<br><br>
+    Co-founder and Product@TestBuzz<br>Mobile Lead@1337Lab and<br>Software Engineer@Tesseract Imaging<br><br>
+    I reside in New York and am currently pursuing my MS in Computer Science.<br>
+     
   </p>
     <p align="center">
     <a href="https://ankitmhatre.in/">ankitmhatre.in</a>
@@ -31,6 +32,8 @@ text-align: center;">
 
 
 </p> 
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitmhatre&show_icons=true&theme=radical) -->
 <!--
 **ankitmhatre/ankitmhatre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

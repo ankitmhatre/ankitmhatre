@@ -20,7 +20,8 @@ text-align: center;">
   Hello, World <br>
     I write about projects and experiences to reminisce.<br>
     Pace University, NYC, US(2022-2024 CS) <br>
-    Mumbai University, India(2014-2018 CSE)<br><br>
+    Mumbai University, India(2014-2018 CSE)<br><be>
+    Product@Snacko<br>
     Co-founder and Product@TestBuzz<br>Mobile Lead@1337Lab and<br>Software Engineer@Tesseract Imaging<br><br>
     I reside in New York and am currently pursuing my MS in Computer Science.<br>
      

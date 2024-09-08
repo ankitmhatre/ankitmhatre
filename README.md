@@ -20,7 +20,7 @@ Here are a few projects that I’m particularly proud of, and no, they weren’t
 
 1. **Chitraan (Journaling App)**  
    An app for capturing and organizing thoughts because notebooks are sooo last century. Built with **Flutter**, hosted on **AWS EC2**, and integrated with **MongoDB**. Available on both iOS and Android.  
-   [Learn more about Chitraan](http://ankitmhatre.in/projects/chitraan)
+   [Learn more about Chitraan](http://ankitmhatre.in/projects/chitraan?ref=github-readme)
 
 2. **AI-Powered Investment Portfolio Assistant**  
    A web-based tool that helps people experiment with investment strategies. Think of it like a financial playground, without the real-world consequences. Built with **React.js**, **Node.js**, and hosted on **Netlify**.  
@@ -38,7 +38,7 @@ When I’m not coding, I switch gears into **Product Manager** mode, where I foc
 
 ### Product Leadership Highlights
 - **Chitraan:** Managed the full product lifecycle from ideation to launch, ensuring it meets user needs while scaling for growth.  
-   [Read more about Chitraan here](http://ankitmhatre.in/projects/chitraan)
+   [Read more about Chitraan here](http://ankitmhatre.in/projects/chitraan?ref=github-readme)
 - **AI Portfolio Assistant:** Led the product vision, feature prioritization, and avoided scope creep (it’s a real thing, trust me).
 
 ## 🚀 What I’m Excited About
@@ -50,9 +50,9 @@ I’m always up for a new challenge, especially if it involves:
 ## 📫 Let's Connect
 If I sound like someone you'd like to collaborate with (or just have a friendly chat about tech), here’s how you can reach me:
 
-- **Portfolio:** [ankitmhatre.in](http://ankitmhatre.in) (It’s fancy, I promise!)
-- **LinkedIn:** [Ankit Mhatre](https://www.linkedin.com/in/ankitmhatre)
-- **GitHub:** [github.com/ankitmhatre](https://github.com/ankitmhatre)
+- **Portfolio:** [ankitmhatre.in](http://ankitmhatre.in?ref=github-readme) (It’s fancy, I promise!)
+- **LinkedIn:** [Ankit Mhatre](https://www.linkedin.com/in/ankitmhatree?ref=github-readme)
+- **GitHub:** [github.com/ankitmhatre](https://github.com/ankitmhatre?ref=github-readme)
 - **Email:** [ankitmhatre@hotmail.com](mailto:ankitmhatre@hotmail.com)
 
 I'm always open to exciting opportunities, especially in **startups** and **high-growth environments** where I can flex both my **technical** and **product management** muscles (and maybe build something cool while we’re at it).

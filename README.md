@@ -1,5 +1,6 @@
-# Hi, I'm Ankit Mhatre! 👋
-
+Hello!!, I am [Ankit](https://ankitmhatre.in) 👋
+enjoy your stay here, feel free to [reach out](mailto:ankitmhatre@hotmail.com)
+--- 
 I’m a versatile **Senior SWE** and **Product Manager**, passionately building scalable products that solve real-world problems. If you ever wonder, "Can I build this? Should I build this? But the MVP... Why should I and How should I?" the answer is probably "Yes!" — and I’m here to help you figure out all of 'em.
 
 When I’m not busy coding or managing product roadmaps, you’ll find me keeping up with the latest in tech or probably in philosophy mode, trying to figure out life’s bigger questions (like what are we humans even trying to do? ).

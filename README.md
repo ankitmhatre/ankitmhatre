@@ -11,7 +11,7 @@ I'm fluent in tech, so here’s a sneak peek of my arsenal:
 - **Programming Languages:** Swift, Java, C, Kotlin, JavaScript, TypeScript, Dart, Python, PHP, Bash (because why stop at one? And no, I don't put HTML or XML here)
 - **Frameworks and Libraries:** React.js, Node.js, Express, Flutter, Xcode, UIKit, Laravel, Django, Flask, Redux (yes, I know, it’s a lot or less... trust me, I’ve forgotten more frameworks than I’ve learned in my 9 years of tech)
 - **DevOps & Tools:** Docker Compose, GitHub Actions, AWS EC2, Route 53, Netlify, SSL certificates with Let’s Encrypt, CI/CD pipelines (because continuous integration means never having to say, “It worked on my machine”)
-- **APIs and Integrations:** RESTful APIs, GraphQL, Postman, MealDB, third-party integrations (AKA, making apps talk to each other, so you don’t have to. But I'm a believer in human connection too)
+- **APIs and Integrations:** RESTful APIs, GraphQL, Postman, MealDB, third-party integrations (AKA, making apps talk to each other, so you don’t have to. But I'm a hardcore believer of human communications more)
 - **UI/UX & Design Tools:** Figma, SketchApp (because even code needs to look good)
 - **Databases:** MongoDB, Firebase, SQL, MySQL (because a project without a database is just a glorified to-do list)
 - **Architecture & Patterns:** MVVM, Redux (because structure beats chaos)

@@ -2,8 +2,9 @@ Hello!!, I am [Ankit](https://ankitmhatre.in) 👋
 enjoy your stay here, feel free to [reach out](mailto:ankitmhatre@hotmail.com)
 --- 
 
-I am a Senior Software Engineer and a Product Manager(ex-Testbuzz). 
-Working since 2018
+I am a Senior Software Engineer and a Product Manager(ex-Testbuzz). <br />
+
+Working since 2018<br />
 Coding since 2013
 
 When I’m not busy coding or managing product roadmaps, you’ll find me keeping up with the latest in tech or probably in philosophy mode, trying to figure out life’s bigger questions (like what are we humans even trying to do? ).
@@ -23,10 +24,11 @@ I'm fluent in tech, so here’s a sneak peek of my arsenal:
 Here are a few projects that I’m particularly proud of, and no, they weren’t built overnight (unless you count the sleepless nights).
 
 1. **Chitraan (Journaling App)**  
-   An app for capturing and organizing thoughts because notebooks are sooo last century. Built with **Flutter**, hosted on **AWS EC2**, and integrated with **MongoDB**. Available on both iOS and Android.  
+   An app for capturing and organizing thoughts because notebooks are sooo last century. Built with **Flutter**, hosted on **AWS EC2**, and integrated with **MongoDB**. Available on both iOS and Android.
+   Despite what I said above, this was built in 5 days, zero to production
    [Learn more about Chitraan](http://ankitmhatre.in/projects/chitraan?ref=github-readme)
 
-2. **AI-Powered Investment Portfolio Assistant**  
+3. **AI-Powered Investment Portfolio Assistant**  
    A web-based tool that helps people experiment with investment strategies. Think of it like a financial playground, without the real-world consequences. Built with **React.js**, **Node.js**, and hosted on **Netlify**.  
    [View on GitHub](https://github.com/ankitmhatre/2024S-pace-super-kings)
 

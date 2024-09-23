@@ -3,7 +3,8 @@ enjoy your stay here, feel free to [reach out](mailto:ankitmhatre@hotmail.com)
 --- 
 
 I am a Senior Software Engineer and a Product Manager(ex-Testbuzz). 
-
+Working since 2018
+Coding since 2013
 
 When I’m not busy coding or managing product roadmaps, you’ll find me keeping up with the latest in tech or probably in philosophy mode, trying to figure out life’s bigger questions (like what are we humans even trying to do? ).
 
@@ -11,7 +12,7 @@ When I’m not busy coding or managing product roadmaps, you’ll find me keepin
 I'm fluent in tech, so here’s a sneak peek of my arsenal:
 
 - **Programming Languages:** Swift, Java, C, Kotlin, JavaScript, TypeScript, Dart, Python, PHP, Bash (because why stop at one? And no, I don't put HTML or XML here)
-- **Frameworks and Libraries:** React.js, Node.js, Express, Flutter, Xcode, UIKit, Laravel, Django, Flask, Redux (yes, I know, it’s a lot or less... trust me, I’ve forgotten more frameworks than I’ve learned in my 9 years of tech)
+- **Frameworks and Libraries:** React.js, Node.js, Express, Flutter, React Native, Xcode, UIKit, Laravel, Django, Flask, Redux (yes, I know, it’s a lot or less... trust me, I’ve forgotten more frameworks than I’ve learned in my 9 years of tech)
 - **DevOps & Tools:** Docker Compose, GitHub Actions, AWS EC2, Route 53, Netlify, SSL certificates with Let’s Encrypt, CI/CD pipelines (because continuous integration means never having to say, “It worked on my machine”)
 - **APIs and Integrations:** RESTful APIs, GraphQL, Postman, MealDB, third-party integrations (AKA, making apps talk to each other, so you don’t have to. But I'm a hardcore believer of human communications more)
 - **UI/UX & Design Tools:** Figma, SketchApp (because even code needs to look good)
